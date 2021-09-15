@@ -1,0 +1,8 @@
+{
+    "name": "webcliq/cliqonfn",
+    "description": "Selection of Cliqon functions required by the Composer derived framework",
+    "require": {
+        "php": ">=7.2"
+    }
+}
+
